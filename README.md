@@ -12,7 +12,7 @@ I love building real-world projects, improving my coding skills, and creating mo
 
 ## 🚀 About Me
 
-- 🎓 BS Computer Science Student  
+- 🎓 BS Computer Science Student
 - 💻 Currently learning **C++, OOP, Backend Development, and AI Integration**
 - 🌐 Building projects using **HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB**
 - 🤖 Interested in **AI chatbots, automation, dashboards, and SaaS tools**
@@ -24,6 +24,7 @@ I love building real-world projects, improving my coding skills, and creating mo
 ## 🛠️ Technologies & Tools
 
 ### Programming & Web
+
 ![C++](https://img.shields.io/badge/C++-03234B?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -31,12 +32,14 @@ I love building real-world projects, improving my coding skills, and creating mo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -59,8 +62,9 @@ I love building real-world projects, improving my coding skills, and creating mo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=atiqurrehman112&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqurrehman112&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atiqurrehman112&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiqurrehman112&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
